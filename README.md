@@ -1,4 +1,3 @@
-"# demo-plugin" 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
